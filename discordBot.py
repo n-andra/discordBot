@@ -111,4 +111,4 @@ async def deleteMsgs(ctx):
     await ctx.channel.purge(limit=10)    
     print('Messages deleted!')
     
-client.run('NzM0NDc5NTcyMTIwMTA5MTY3.XxSe1A.mLxpPrl349V947rffi9f4jLLMMw')
+client.run('key here')
